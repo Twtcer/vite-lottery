@@ -1,2 +1,3 @@
-# vite-lottery
-vue3 vite lottery demo
+## 功能特性
+- 矩形跳动款 Lottery
+- 圆形滚盘款

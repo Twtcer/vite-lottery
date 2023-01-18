@@ -1,0 +1,9 @@
+
+// 全局变量
+$color-green: #0f0;
+$color-green: #f55 !default;
+
+// 样式
+.test {
+	background-color: $color-green; 
+}
