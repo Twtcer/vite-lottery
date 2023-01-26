@@ -1,7 +1,4 @@
-<template>
-	<div>
-		<h1 class=".test">demo1 </h1>
-	</div>
+<template> 
 	<div>
 		<div class="lottery-container">
 			<div class="turntable-wrap">

@@ -1,7 +1,4 @@
-<template>
-	<div>
-		<h1 class="test">矩形抽奖 </h1>
-	</div>
+<template> 
 	<div>
 		<div class="lottery-container">
 			<div class="turntable-wrap">
@@ -25,10 +22,10 @@
 					<div>单抽</div>
 					<svg-icon name="ks"></svg-icon> <span>200</span>
 				</div>
-				<div class="turntable-btn btn-1" @click="onGet">
+				<!-- <div class="turntable-btn btn-1" @click="onGet">
 					<div>十连抽</div>
 					<svg-icon name="ks"></svg-icon> <span>2000</span>
-				</div>
+				</div> -->
 			</div>
 			<div v-if="showResult" class="result-container">
 				<div class="mask"></div>

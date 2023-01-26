@@ -11,6 +11,9 @@ export default defineConfig({
       '@components': fileURLToPath(new URL('./src/components', import.meta.url)),
     }
   },
+  server:{
+    port: 9527
+  },
   css: {
     // css预处理器
     preprocessorOptions: {
